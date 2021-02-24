@@ -1,1 +1,2 @@
-- [EN][TypeScript] [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+- [EN] [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+- [EN] [Services in DDD finally explained](https://developer20.com/services-in-ddd-finally-explained/)
