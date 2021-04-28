@@ -1,0 +1,1 @@
+- [EN] [You might as well timestamp it](https://changelog.com/posts/you-might-as-well-timestamp-it)
