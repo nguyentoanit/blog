@@ -1,1 +1,2 @@
 - [EN] [You might as well timestamp it](https://changelog.com/posts/you-might-as-well-timestamp-it)
+- [EN] [How I Write SQL, Part 1: Naming Conventions](https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/)
