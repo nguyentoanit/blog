@@ -1,0 +1,1 @@
+- [EN] [100 JavaScript Interview Questions and Answers in 2021](https://betterprogramming.pub/100-javascript-interview-questions-58e22e30f7f1)
