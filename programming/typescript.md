@@ -1,0 +1,1 @@
+- [EN] [TypeScript Evolution from Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
